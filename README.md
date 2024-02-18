@@ -46,7 +46,7 @@ Questions, suggestions, comments, etc?
 Join and add discussions at the Trinityrnaseq-users Google group: https://groups.google.com/forum/#!forum/trinityrnaseq-users.
 
 ## Referencing Trinity
-<a href="https://ibb.co/kHRxypC"><img src="https://i.ibb.co/bWSP3x9/naturepic.jpg" alt="naturepic" style="max-width:100px;" border="0"></a>
+<a href="https://ibb.co/kHRxypC"><img src="https://i.ibb.co/bWSP3x9/naturepic.jpg" alt="naturepic" style="max-width:10px;" border="0"></a>
 
 Trinity can be referenced as:
 - Grabherr MG, Haas BJ, Yassour M, Levin JZ, Thompson DA, Amit I, Adiconis X, Fan L, Raychowdhury R, Zeng Q, Chen Z, Mauceli E, Hacohen N, Gnirke A, Rhind N, di Palma F, Birren BW, Nusbaum C, Lindblad-Toh K, Friedman N, Regev A. Full-length transcriptome assembly from RNA-seq data without a reference genome. [Nat Biotechnol. 2011 May 15;29(7):644-52].(https://www.nature.com/articles/nbt.1883) doi: 10.1038/nbt.1883. [PubMed PMID: 21572440](https://pubmed.ncbi.nlm.nih.gov/21572440/).
