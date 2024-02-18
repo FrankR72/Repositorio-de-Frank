@@ -73,4 +73,4 @@ Our efforts related to building a Trinity Cancer Transcriptome Analysis Toolkit 
 
 9ky5NwV45qY
 
-[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://www.youtube.com/watch?v=3RFAX3CbSGA)
+[![Transcriptomics](https://img.youtube.com/vi/9ky5NwV45qY/0.jpg)](https://www.youtube.com/watch?v=9ky5NwV45qY)
