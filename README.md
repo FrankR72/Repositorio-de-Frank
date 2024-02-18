@@ -1,3 +1,4 @@
+Disclaimer, this is a copy from [Trinityrnaseq](https://github.com/trinityrnaseq/trinityrnaseq/wiki#referencing-trinity) I did to practice Markdown
 # RNA-Seq De novo Assembly Using Trinity
 
 <img src="https://raw.githubusercontent.com/wiki/trinityrnaseq/trinityrnaseq/images/TrinityCompositeLogo.png" width="350"/>
