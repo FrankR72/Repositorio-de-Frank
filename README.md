@@ -1,7 +1,6 @@
 # RNA-Seq De novo Assembly Using Trinity
 
-
-image
+<img src="https://raw.githubusercontent.com/wiki/trinityrnaseq/trinityrnaseq/images/TrinityCompositeLogo.png" width="150"/>
 
 ## Quick Guide for the Impatient
 Trinity assembles transcript sequences from Illumina RNA-Seq data.
