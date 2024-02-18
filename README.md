@@ -73,5 +73,5 @@ Our efforts related to building a Trinity Cancer Transcriptome Analysis Toolkit 
 
 [<img src="https://www.science.org/cms/10.1126/science.1254257/asset/979aa7be-8339-4540-9a5f-a41b12f8429a/assets/graphic/344_1396_f1.jpeg" alt="Intro to Cancer Transcriptomics" width="150px"/>](https://www.youtube.com/watch?v=9ky5NwV45qYE)
 
-[![video](https://img.youtube.com/watch?v=M9mzXlrCOI8)](https://www.youtube.com/watch?v=M9mzXlrCOI8)
+[![video](<img src="https://i.ibb.co/bWSP3x9/naturepic.jpg" width="150"/>)](https://www.youtube.com/watch?v=M9mzXlrCOI8)
 
